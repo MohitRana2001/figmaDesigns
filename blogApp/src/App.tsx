@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 import NavBar from './components/Navbar'
 import Blog from './components/Blog'
 
