@@ -1,3 +1,6 @@
+# Link to Figma Design
+https://www.figma.com/design/gKZoWoleFgP35xvYu83Y2l/Portfolio-UI---Web-%26-Mobile?node-id=8-5&t=qf8Xzzj8DdUzQN8c-0
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
